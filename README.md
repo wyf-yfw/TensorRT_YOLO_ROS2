@@ -55,7 +55,7 @@
 
 #### ~~支持TensorRT 8~~
 
-#### 支持TensorRT 10
+#### [支持TensorRT 10](https://github.com/wyf-yfw/TensorRT_YOLO_ROS2/releases/tag/v12.2.10)
 
 #### [ROS1仓库](https://github.com/wyf-yfw/TensorRT_YOLO_ROS)
 
